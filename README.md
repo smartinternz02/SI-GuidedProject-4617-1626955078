@@ -6,14 +6,14 @@ Project ID:  SI-GuidedProject-4617-1626955078
 Team Name: Chiran
 
 
-Done by,
-V.CHIRANJEEVI, 19BCE2166
+		Done by,
+		V.CHIRANJEEVI, 19BCE2166
 
-G.PUSHWANTH, 19BCI0015
+		G.PUSHWANTH, 19BCI0015
 
-S. Sai Nikhil, 19BCI0010
+		S. Sai Nikhil, 19BCI0010
 
-Aadil Mohammed, 19BCI7052
+		Aadil Mohammed, 19BCI7052
 
 
 
